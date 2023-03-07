@@ -1,0 +1,5 @@
+Ainun Khan Kholah
+Test Pemrograman - 7 Maret 2023
+
+
+Dengan API kita dapat dengan mudah mengambil dan mengolah data dari tempat yang berbeda. Misalnya, saya membuat aplikasi donor darah, di aplikasi ini kita bisa menemukan dimana pendonor maupun bank darah berada, dan API membatu penggunaan data dari rumah sakit yang berbeda. Aplikasi yang saya buat mengirim permintaan ke API, lalu API menerima permintaan tersebut, setelah itu diproses, data yang didapat dikirim oleh API ke aplikasi.
